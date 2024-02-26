@@ -17,6 +17,7 @@
     "react-router-dom": "5.2.0"
   },
   "devDependencies": {
+    "@vercel/node": "3.0.20",
     "eslint-config-airbnb": "18.2.1",
     "eslint-config-prettier": "8.1.0",
     "eslint-plugin-prettier": "3.3.1",
